@@ -125,3 +125,12 @@ body {
   transform: translateX(0);
 }
 /* End our-work */
+/* Start Stuff */
+.stuff {
+
+}
+.stuff .description {
+  max-width: 500px;
+  font-size: 13px;
+}
+/* End Stuff */
