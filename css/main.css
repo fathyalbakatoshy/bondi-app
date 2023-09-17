@@ -110,7 +110,7 @@ body {
 .our-work .box::before {
   content: attr(data-work);
   position: absolute;
-  background-color: #33d1cc74;
+  background-color: #ff315076;
   width: calc(100% - 10px);
   height: calc(100% - 10px);
   display: flex;
